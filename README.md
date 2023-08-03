@@ -2,7 +2,11 @@
 using outlook account and powebi to implement it.
 
 # Interface Preview:
-![v2 0](https://github.com/zionnoizy/NonFlipCalendar/assets/54279382/f2ac43e5-3fa4-4066-ba51-8b3320add261)
+v1.0
+![v1 0](https://github.com/zionnoizy/NonFlipCalendar/assets/54279382/f2ac43e5-3fa4-4066-ba51-8b3320add261)
+
+v2.0
+![Capture](https://github.com/zionnoizy/NonFlipCalendar/assets/54279382/2b76127c-c70c-483a-8c90-bfd47979afc0)
 
 # Introduction:
 This is a project for showing the time able for meeting toom Panama and Monaco. It contains designed with correct time with each day meeting. It will show upcoming five working days included Monday to Friday.
